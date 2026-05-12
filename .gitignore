@@ -1,0 +1,10 @@
+# Local sibling projects under same parent folder (not part of this repo)
+ACTS-College/
+ACTSColleges-EmployeePortal/
+ACTSColleges-ParentPortal/
+ACTSColleges-StudentPortal/
+actsc-mis-acs/
+
+# CI deploy keys — never commit
+cicd_deploy_key
+cicd_deploy_key.pub
